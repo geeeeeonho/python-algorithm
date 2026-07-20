@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/12944
 # 알고리즘: 기본연산, 배열
 # 작성자: 이건호
-# 작성일: 2026. 07. 20. 17:42:36
+# 작성일: 2026. 07. 20. 17:42:46
 
 def solution(arr):
     answer = sum(arr)/len(arr)
